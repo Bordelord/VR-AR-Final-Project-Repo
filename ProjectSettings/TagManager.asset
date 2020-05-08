@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Handle
   layers:
   - Default
   - TransparentFX
@@ -18,10 +19,10 @@ TagManager:
   - Playa
   - Machines
   - Room
-  - 
-  - 
-  - 
-  - 
+  - Bound
+  - grabbable handler
+  - Lever Colliders
+  - Lever
   - 
   - 
   - 
