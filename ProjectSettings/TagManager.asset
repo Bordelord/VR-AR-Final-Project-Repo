@@ -5,6 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - Handle
+  - piston1
+  - piston2
+  - collision block
+  - Button
+  - Button 2
+  - Ball
+  - Trigger
+  - Trigger2
+  - Trigger3
   layers:
   - Default
   - TransparentFX
@@ -23,11 +32,11 @@ TagManager:
   - grabbable handler
   - Lever Colliders
   - Lever
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Rope
+  - Rope Holder
+  - Chord Collider
+  - Button
+  - Switch
   - 
   - 
   - 
